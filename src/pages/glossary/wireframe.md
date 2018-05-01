@@ -1,12 +1,15 @@
 ---
 templateKey: glossary-term
-title: Visual Designer
+title: Wireframe
+type: Document
 date: 2016-12-17T15:04:10.000Z
-description: A type of designer responsible for the final visual style of a design. 
+description: A document responsible for explaining layout. 
 tags:
   - flavor
   - tasting
 ---
+
+![flavor wheel](/img/flavor_wheel.jpg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
